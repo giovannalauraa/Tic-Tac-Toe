@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "surge": "^0.23.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
